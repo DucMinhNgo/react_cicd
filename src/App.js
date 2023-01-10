@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Dustin Pro CI/CD
+          Dustin Pro CI/CD (1)
         </a>
       </header>
     </div>
